@@ -47,9 +47,9 @@ The game is now a native 64-bit application.
 
 ## Online multiplayer support
 
-Online multiplayer is supported via AMAX emu.
+Online multiplayer is supported via Amax Emu.
 To set it up, unpack the AMAX emu client zip file into a folder called `amax_client_files`.
-The rest of the setup is the same as the one described on [AMAX emu's instruction page](https://amax-emu.com/how_to_play).
+The rest of the setup is the same as the one described on [Amax Emu's instruction page](https://amax-emu.com/how_to_play).
 
 ## Requirements
 
