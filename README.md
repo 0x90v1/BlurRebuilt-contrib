@@ -108,7 +108,7 @@ Local split-screen works as expected.
 <table>
   <tr>
     <td><strong>v1.5 (2026/10/24)</strong></td>
-    <td>More ultra widescreen fixes<br>Support for AMAX online multiplayer</td>
+    <td>More ultra widescreen fixes<br>Support for online multiplayer via Amax Emu</td>
   </tr>
   <tr>
     <td><strong>v1.4 (2026/10/23)</strong></td>
